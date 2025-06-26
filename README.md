@@ -258,6 +258,7 @@ Proyek ini menggunakan dua metrik utama untuk menilai kinerja model:
 ---
 
 ### Hasil Evaluasi per Model
+![image](https://github.com/user-attachments/assets/58781308-bfd2-42b8-a41e-c6404686dc4f)
 
 #### 📌 Logistic Regression
 
@@ -282,6 +283,8 @@ Proyek ini menggunakan dua metrik utama untuk menilai kinerja model:
 ---
 
 #### 📌 Random Forest
+![image](https://github.com/user-attachments/assets/5e287a0b-5318-4bc4-b70b-1e350339707a)
+
 
 - **Confusion Matrix**:
   - True Negative (TN): 4397
