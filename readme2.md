@@ -50,8 +50,9 @@ Bagaimana membangun sistem yang dapat merekomendasikan film sesuai preferensi us
 **Gambar:**  
 - **gambar struktur dan preview data:**
 > screenshot/visual tabel 5 baris awal dari `movies.csv` dan `ratings.csv`
+![image](https://github.com/user-attachments/assets/1b437d5d-9574-4951-97a5-af1f7765750a)
 ![image](https://github.com/user-attachments/assets/ab698166-e0b8-4eaa-b951-c3ee4361fca4)
-![image](https://github.com/user-attachments/assets/717b5d53-4321-475d-8ff9-1ddb192af581)
+
 
 ---
 
