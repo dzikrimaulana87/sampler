@@ -66,7 +66,8 @@ Analisis distribusi rating user terhadap film, untuk memahami kecenderungan peni
 - **Insight:** Mayoritas rating >3.0, indikasi bias positif (positivity bias) pada data crowdsourcing.
 
 **Gambar:**  
-![image](https://github.com/user-attachments/assets/23c47911-7702-485b-8b56-8ea8744053da)
+![image](https://github.com/user-attachments/assets/8ba22efc-86a0-4b68-a0e0-774aaa40e6c0)
+
 
 
 ### 4.2 Film Paling Populer  
